@@ -14,51 +14,60 @@
     position: absolute;
     bottom: 20px;
 }
+
 #about-us {
     text-align: center;
     height: 40vh;
     padding-top: 30px;
 }
+
 #services {
     background-image: url(../assets/backgrounds/s_image.jpg);
     text-align: center;
-    height : 50vh;
+    height: 50vh;
     color: white;
     padding-top: 40px;
 }
+
 #what-we-do {
     height: 150vh;
     text-align: center;
-    /* padding-left: 100px;
-    padding-right: 100px; */
 }
+
 .services {
     display: flex;
     justify-content: space-around;
 }
+
 #portfolio-images {
     padding-left: 100px;
     padding-right: 100px;
 }
-/* .custom-sizing {
-    width: 366px;
-    height: 300px;
-} */
+
 #contact-form {
     background-image: url(../assets/backgrounds/c_image.jpg);
     height: 80vh;
     color: white;
     text-align: center;
+
 }
-.form-style input{
+
+.form-style input {
     background: transparent;
     color: white;
 }
-.form-style textarea{
+
+.form-style textarea {
     background: transparent;
     color: white;
-    width: 600px;
+    /* width: 600px; */
 }
-#textarea {
+
+.social-icons {
+    text-align: center;
+    display: flex;
+    justify-content:  space-around;
+}
+.footer {
     text-align: center;
 }
