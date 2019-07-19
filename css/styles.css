@@ -16,4 +16,21 @@
 }
 #about-us {
     text-align: center;
+    height: 40vh;
+}
+#services {
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    text-align: center;
+    height : 50vh;
+    color: white;
+}
+#what-we-do {
+    height: 30vh;
+    text-align: center;
+    /* padding-left: 100px;
+    padding-right: 100px; */
+}
+.services {
+    display: flex;
+    justify-content: space-around;
 }
