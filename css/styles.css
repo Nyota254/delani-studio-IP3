@@ -2,9 +2,18 @@
     background-image: url(../assets/backgrounds/h_img.jpg);
     height: 100vh;
     background-size: cover;
-}
-#top-center {
-    text-align: center;
-    padding-top: 50%;
+    color: white;
 }
 
+#top-center {
+    text-align: center;
+    padding-top: 190px;
+}
+
+#mouse-click {
+    position: absolute;
+    bottom: 20px;
+}
+#about-us {
+    text-align: center;
+}
