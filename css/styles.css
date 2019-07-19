@@ -49,7 +49,6 @@
     height: 80vh;
     color: white;
     text-align: center;
-
 }
 
 .form-style input {
@@ -66,8 +65,13 @@
 .social-icons {
     text-align: center;
     display: flex;
-    justify-content:  space-around;
+    justify-content: space-around;
 }
+
 .footer {
     text-align: center;
+}
+
+.form-center {
+    padding-top: 50px;
 }
