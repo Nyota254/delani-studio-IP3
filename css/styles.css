@@ -47,4 +47,18 @@
 #contact-form {
     background-image: url(../assets/backgrounds/c_image.jpg);
     height: 80vh;
+    color: white;
+    text-align: center;
+}
+.form-style input{
+    background: transparent;
+    color: white;
+}
+.form-style textarea{
+    background: transparent;
+    color: white;
+    width: 600px;
+}
+#textarea {
+    text-align: center;
 }
