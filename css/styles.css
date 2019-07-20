@@ -1,3 +1,6 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
 #top-page {
     background-image: url(../assets/backgrounds/h_img.jpg);
     height: 100vh;
@@ -94,4 +97,5 @@
     font-size: 5em;
     font-weight: bold;
     text-shadow: 1px 1px #fff;
+    display: none;
 }
