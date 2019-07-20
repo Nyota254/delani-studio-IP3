@@ -19,5 +19,10 @@ $(document).ready(function () {
 
         alert(name + " we have recieved your message.Thankyou for reaching out to us.");
     });
+    $(".custom-sizing1").hover(function(){  
+        $(".portfolio-name").toggle();
+    }, function(){
+        $(".portfolio-name").toggle();
+    });
 
 });

@@ -47,10 +47,10 @@ h3 {
     justify-content: space-around;
 }
 
-#portfolio-images {
+/* #portfolio-images {
     padding-left: 100px;
-    padding-right: 100px;
-}
+    padding-right: 100px; */
+/* } */
 
 #contact-form {
     background-image: url(../assets/backgrounds/c_image.jpg);
@@ -98,12 +98,51 @@ h3 {
 .portfolio-name {
     color: black;
     position: relative;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     text-align: center;
     top: 50%;
-    color: #000;
-    font-size: 5em;
-    font-weight: bold;
-    text-shadow: 1px 1px #fff;
+    /* font-size: 5em; */
+    /* font-weight: bold; */
+    /* text-shadow: 1px 1px #fff; */
     display: none;
+}
+
+.white-box {
+    background-color: white;
+    color: black;
+    size: absolute;
+}
+
+.custom-sizing1 {
+    background-image: url(../assets/portfolio/work4.jpg);
+    height: 47vh;
+}
+
+.custom-sizing2 {
+    background-image: url(../assets/portfolio/work3.jpg);
+}
+
+.custom-sizing3 {
+    background-image: url(../assets/portfolio/work2.jpg);
+}
+
+.custom-sizing4 {
+    background-image: url(../assets/portfolio/work1.jpg);
+}
+
+.custom-sizing5 {
+    background-image: url(../assets/portfolio/work5.jpg);
+    height: 47vh;
+}
+
+.custom-sizing6 {
+    background-image: url(../assets/portfolio/work6.jpg);
+}
+
+.custom-sizing7 {
+    background-image: url(../assets/portfolio/work7.jpg);
+}
+
+.custom-sizing8 {
+    background-image: url(../assets/portfolio/work8.jpg);
 }
