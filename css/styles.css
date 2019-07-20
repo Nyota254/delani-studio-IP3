@@ -47,10 +47,10 @@ h3 {
     justify-content: space-around;
 }
 
-/* #portfolio-images {
+#portfolio-images {
     padding-left: 100px;
-    padding-right: 100px; */
-/* } */
+    padding-right: 100px;
+}
 
 #contact-form {
     background-image: url(../assets/backgrounds/c_image.jpg);
@@ -126,6 +126,7 @@ h3 {
 
 .custom-sizing3 {
     background-image: url(../assets/portfolio/work2.jpg);
+    background-size: 366px 300px;
 }
 
 .custom-sizing4 {
