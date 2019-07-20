@@ -111,6 +111,7 @@ h3 {
     background-color: white;
     color: black;
     size: absolute;
+    opacity: 0.8;
 }
 
 .custom-sizing1 {
@@ -120,6 +121,7 @@ h3 {
 
 .custom-sizing2 {
     background-image: url(../assets/portfolio/work3.jpg);
+    height: 47vh;
 }
 
 .custom-sizing3 {
