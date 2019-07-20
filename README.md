@@ -1,5 +1,5 @@
 # Delani Studio
-#### Recreation of the delani studio webpage, 6-july-2019
+#### Recreation of the delani studio webpage, 20-july-2019
 #### By **Kingecha Kevin Nyota**
 ## Description
 This project is a recreation of a fictional studio.It is created with an objective of testing jQuery concepts such as clicking and enabling toggle, mouse hover fuctions, and also making the page responsive.
