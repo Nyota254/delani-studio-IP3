@@ -33,7 +33,7 @@ body {
 }
 
 #what-we-do {
-    height: 150vh;
+    height: 170vh;
     text-align: center;
 }
 
@@ -43,8 +43,8 @@ body {
 }
 
 #portfolio-images {
-    padding-left: 100px;
-    padding-right: 100px;
+    /* padding-left: 100px;
+    padding-right: 100px; */
 }
 
 #contact-form {
@@ -62,7 +62,6 @@ body {
 .form-style textarea {
     background: transparent;
     color: white;
-    /* width: 600px; */
 }
 
 .social-icons {
