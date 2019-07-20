@@ -1,6 +1,11 @@
 body {
     font-family: 'Quicksand', sans-serif;
 }
+
+h3 {
+    font-weight: bold;
+}
+
 #top-page {
     background-image: url(../assets/backgrounds/h_img.jpg);
     height: 100vh;
@@ -43,8 +48,8 @@ body {
 }
 
 #portfolio-images {
-    /* padding-left: 100px;
-    padding-right: 100px; */
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 #contact-form {
@@ -77,15 +82,19 @@ body {
 .form-center {
     padding-top: 50px;
 }
+
 #design-explanation {
     display: none;
 }
+
 #development-explanation {
     display: none;
 }
+
 #product-explanation {
     display: none;
 }
+
 .portfolio-name {
     color: black;
     position: relative;
